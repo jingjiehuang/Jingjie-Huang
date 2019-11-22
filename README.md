@@ -1,6 +1,7 @@
+# Welcome to my page
 
-# Welcome to LearnCS8 Resume Website
+Hello everyone, this is Jennifer's website page. I am a girl who like to listening and playing different types of musical instrument. If you want to be friend or want to know more information about me, please continue read it~
 
-This is an template website for you to fill in your own information. Follow the instructions at https://learncs8.com
+This is my page
 
-Special thanks to the open source bootstrap libraries that made this website possible. 
+![enter image description here](https://lh3.googleusercontent.com/CQ23Yn3zPNluMVGx2ltVqFhE1PvQidq_faI1Wotteopl_b7tP0OzSs7wyg8yH2mRJe-ZmlAMuEM)
